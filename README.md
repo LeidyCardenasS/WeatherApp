@@ -3,7 +3,8 @@ This is a weather dashboard that will run in the browser and feature dynamically
 
 URL:
 
-SCREENSHOT:
+SCREENSHOT: <img width="1447" alt="Screenshot 2023-08-31 at 11 21 38 AM" src="https://github.com/LeidyCardenasS/WeatherApp/assets/139012532/c595f698-cbfe-4c12-a986-4a2c29fb7efe">
+
 
 //The project was carried out with the following acceptance criteria 
 GIVEN a weather dashboard with form inputs
